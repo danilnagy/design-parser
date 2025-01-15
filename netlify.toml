@@ -1,0 +1,9 @@
+[build]
+  command = "pnpm run build-only"
+  publish = "dist"
+
+[functions]
+  directory = "api"
+
+[dev]
+  command = "pnpm run dev"

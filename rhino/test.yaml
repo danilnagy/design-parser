@@ -1,0 +1,15 @@
+box:
+  type: 'create-cube'
+  params:
+    size:
+      x: 100
+      y: 100
+      z: 100
+  position:
+    x: 10
+    y: 10
+    z: 10
+ball:
+  type: 'create-sphere'
+  params:
+    r: 100
